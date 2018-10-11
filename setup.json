@@ -22,7 +22,7 @@
       }, 
     "install_requires": [
         "aiida-core>=0.9.1",
-        "aiida-quantumespresso"
+        "aiida-quantumespresso>=v3.0.0a1"
         ],
     "keywords": "yambo aiida workflows",
     "entry_points": {
